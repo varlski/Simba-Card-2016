@@ -1,0 +1,68 @@
+/* add your CSS here */
+
+html {
+
+
+	border-width: thin;
+	border-style: solid; 
+	border-color: #c5c9cc;
+	width: 340px;
+	margin: 40px;
+
+
+}
+
+
+#main {
+
+	border-style: solid;
+
+}
+
+img {
+
+    width: 300px;
+    padding: 10px;
+
+}
+
+ h3 {
+
+ 	padding: 10px;
+
+ }
+
+#information
+
+       {
+
+       	border-style: solid; 
+       	padding: 10px;
+       	border-width: thin;
+       	border-color: #c5c9cc;
+       	width: 300px;
+       	text-align: left;
+       	list-style-type: none;
+
+       }
+
+#intro {
+
+	font-style: italic;
+	padding: 10px;
+	text-align: left;
+}
+
+span {
+
+     font-weight: bold;
+
+}
+
+ul {
+
+	list-style-type: none;
+
+	font-weight: bold;
+
+}
